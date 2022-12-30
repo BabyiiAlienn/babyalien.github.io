@@ -1,5 +1,7 @@
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Advent+Pro:wght@400;700&family=VT323&display=swap" rel="stylesheet"> <link href="./css/style.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Advent+Pro:wght@400;700&family=VT323&display=swap" rel="stylesheet"> 
+<link href="./css/style.css" rel="stylesheet">
+<link href="./css/death.css" rel="stylesheet">
 </head>
 <center>
 <img src="https://avatars.githubusercontent.com/u/19859787?v=4"/>
@@ -22,6 +24,6 @@ Social Media</br>
 
 
 </center>
-
-
-
+</br>
+<lebel>
+<input class="guillotine" name="test" type="checkbox" /> This is a check</label>
