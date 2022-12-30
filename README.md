@@ -11,7 +11,7 @@ NFT Account</br>
 </br>
 <a href="https://bit.ly/BayiiAlienn" target="_blank"># Address Wallet</a>
 </br>
-<a href="https://desty.page/bayiialienn" target="_blank"># Sell NFT</a>
+<a href="https://s.id/Baby-_-Alien" target="_blank"># Sell NFT</a>
 <hr class="cyberpunk glitched" />
 Social Media</br>
 <a href="https://bayiialienn.github.io/babyalien.github.io" target="_blank"># BitHub</a>
