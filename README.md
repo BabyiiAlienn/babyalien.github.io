@@ -9,7 +9,7 @@ NFT Account</br>
 <a href="https://www.binance.me/id/nft/profile/drgemoy-bc3c68da84fa9825a1e0402670a7af6a" target="_blank"># Binance NFT</a>
 </br>
 <a href="https://opensea.io/Bayii-_-Alien" target="_blank"># OpenSea</a>
-</br></br>
+</br>
 <hr class="cyberpunk glitched" />
 Social Media</br>
 <a href="https://bayiialienn.github.io/babyalien.github.io" target="_blank"># BitHub</a>
