@@ -25,5 +25,3 @@ Social Media</br>
 
 </center>
 </br>
-<lebel>
-<input class="guillotine" name="test" type="checkbox" /> This is a check</label>
