@@ -4,7 +4,8 @@
 <center>
 <img src="https://avatars.githubusercontent.com/u/19859787?v=4"/>
 Hello World !
-</br></br>
+</br>
+<hr class="cyberpunk glitched" />
 NFT Account</br>
 <a href="https://www.binance.me/id/nft/profile/drgemoy-bc3c68da84fa9825a1e0402670a7af6a" target="_blank"># Binance NFT</a>
 </br>
