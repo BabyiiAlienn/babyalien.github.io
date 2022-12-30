@@ -10,6 +10,7 @@ NFT Account</br>
 </br>
 <a href="https://opensea.io/Bayii-_-Alien" target="_blank"># OpenSea</a>
 </br></br>
+<hr class="cyberpunk glitched" />
 Social Media</br>
 <a href="https://bayiialienn.github.io/babyalien.github.io" target="_blank"># BitHub</a>
 </br>
