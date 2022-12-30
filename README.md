@@ -1,1 +1,1 @@
-# https://github.com/DRGEMOY/babyalien.github.io.git
+# https://drgemoy.github.io/babyalien.github.io.git
