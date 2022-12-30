@@ -18,8 +18,10 @@ Social Media</br>
 <a href="https://bayiialienn.github.io/babyalien.github.io" target="_blank"># BitHub</a>
 </br>
 <a href="https://www.binance.me/id/live/u/27177728" target="_blank"># Binance Live</a>
-</br>
+</br></br>
 <a href="https://twitter.com/redhonifadli" target="_blank"># Twitter</a>
+</br>
+<a href="https://t.me/bayiialienn" target="_blank"># Telegram</a>
 
 
 
