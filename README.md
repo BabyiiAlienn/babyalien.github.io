@@ -9,7 +9,7 @@ NFT Account</br>
 
 
 Social Media</br>
-<a href="https://drgemoy.github.io/babyalien.github.io" target="_blank"># github</a>
+<a href="https://drgemoy.github.io/babyalien.github.io" target="_blank"># BitHub</a>
 </br>
 <a href="https://www.binance.me/id/live/u/27177728" target="_blank"># Binance Live</a>
 </br>
