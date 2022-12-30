@@ -23,7 +23,7 @@ Social Media</br>
 </br>
 <a href="https://t.me/bayiialienn" target="_blank"># Telegram</a>
 </br>
-<a href="https://discord.com/users/Baby-_-Alien#2948" target="_blank"># Discord</a>
+<a href="https://discord.com/users/633558230148055060" target="_blank"># Discord</a>
 
 
 
