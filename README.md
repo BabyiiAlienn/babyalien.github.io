@@ -11,7 +11,7 @@ Hello World !
 NFT Account</br>
 <a href="https://www.binance.me/id/nft/profile/drgemoy-bc3c68da84fa9825a1e0402670a7af6a" target="_blank"># Binance NFT</a>
 </br>
-<a href="https://opensea.io/Bayii-_-Alien" target="_blank"># OpenSea</a>
+<a href="https://opensea.io/Baby-_-Alien" target="_blank"># OpenSea</a>
 </br>
 <a href="https://bit.ly/BayiiAlienn" target="_blank"># Address Wallet</a>
 <hr class="cyberpunk glitched" />
