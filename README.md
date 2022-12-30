@@ -22,8 +22,11 @@ Social Media</br>
 <a href="https://twitter.com/redhonifadli" target="_blank"># Twitter</a>
 </br>
 <a href="https://t.me/bayiialienn" target="_blank"># Telegram</a>
+</br>
+<a href="https://discord.com" target="_blank"># Discord</a>
 
 
 
 </center>
 </br>
+633558230148055060
