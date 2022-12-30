@@ -1,8 +1,4 @@
-<head>
-<link href="https://fonts.googleapis.com/css2?family=Advent+Pro:wght@400;700&family=VT323&display=swap" rel="stylesheet"> 
-<link href="./css/style.css" rel="stylesheet">
-<link href="./css/death.css" rel="stylesheet">
-</head>
+
 <center>
 <img src="https://avatars.githubusercontent.com/u/19859787?v=4"/>
 Hello World !
@@ -14,6 +10,8 @@ NFT Account</br>
 <a href="https://opensea.io/Baby-_-Alien" target="_blank"># OpenSea</a>
 </br>
 <a href="https://bit.ly/BayiiAlienn" target="_blank"># Address Wallet</a>
+</br>
+<a href="https://desty.page/bayiialienn" target="_blank"># Shell NFT</a>
 <hr class="cyberpunk glitched" />
 Social Media</br>
 <a href="https://bayiialienn.github.io/babyalien.github.io" target="_blank"># BitHub</a>
@@ -30,4 +28,3 @@ Social Media</br>
 
 </center>
 </br>
-
