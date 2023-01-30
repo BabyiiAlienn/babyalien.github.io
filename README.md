@@ -5,9 +5,9 @@ Hello World !
 </br>
 <hr class="cyberpunk glitched" />
 NFT Account</br>
-<a href="https://www.binance.me/id/nft/profile/drgemoy-bc3c68da84fa9825a1e0402670a7af6a" target="_blank"># Binance NFT</a>
+<a href="https://s.id/0xBA-binancenft" target="_blank"># Binance NFT</a>
 </br>
-<a href="https://opensea.io/Baby-_-Alien" target="_blank"># OpenSea</a>
+<a href="https://s.id/0xBA-openseanft" target="_blank"># OpenSea</a>
 </br>
 <a href="https://bit.ly/BayiiAlienn" target="_blank"># Address Wallet</a>
 </br>
@@ -20,7 +20,7 @@ Social Media</br>
 </br></br>
 <a href="https://twitter.com/redhonifadli" target="_blank"># Twitter</a>
 </br>
-<a href="https://t.me/bayiialienn" target="_blank"># Telegram</a>
+<a href="https://t.me/BabyAlien_ID" target="_blank"># Telegram</a>
 </br>
 <a href="https://discord.com/users/633558230148055060" target="_blank"># Discord</a>
 
