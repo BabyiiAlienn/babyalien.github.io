@@ -18,7 +18,7 @@ NFT Account</br>
 <a href="https://s.id/Baby-_-Alien" target="_blank"># Sell NFT</a>
 <hr class="cyberpunk glitched" />
 Social Media</br>
-<a href="https://0xBabyAlien.github.io/babyalien.github.io" target="_blank"># BitHub</a>
+<a href="https://0xBabyAlien.github.io/babyalien.github.io" target="_blank"># GitHub</a>
 </br>
 <a href="https://www.binance.me/id/live/u/27177728" target="_blank"># Binance Live</a>
 </br></br>
