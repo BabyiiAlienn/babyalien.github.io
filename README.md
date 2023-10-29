@@ -8,6 +8,8 @@ Hello World !
 Social Media</br>
 <a href="https://0xBabyAlien.github.io/babyalien.github.io" target="_blank"># GitHub</a>
 </br>
+<a href="https://www.binance.com/en/feed/profile/415452117" target="_blank"># Binance Square</a>
+</br>
 <a href="https://www.binance.me/id/live/u/27177728" target="_blank"># Binance Live</a>
 </br></br>
 <a href="https://twitter.com/redhonifadli" target="_blank"># Twitter</a>
