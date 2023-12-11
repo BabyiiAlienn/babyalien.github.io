@@ -1,6 +1,6 @@
 
 <center>
-<img src="https://avatars.githubusercontent.com/u/19859787?v=4"/>
+<img src="https://avatars.githubusercontent.com/u/19859787?v=4" size="10px"/>
 Hello World !
 </br>
 
