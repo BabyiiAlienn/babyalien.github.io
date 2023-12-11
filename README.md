@@ -19,7 +19,8 @@ Social Media</br>
 <a href="https://t.me/BabyAlien_ID" target="_blank"># Telegram</a>
 </br>
 <a href="https://discord.com/users/633558230148055060" target="_blank"># Discord</a>
-
+</br>
+<a href="https://kampungcyberx.blogspot.com" target="_blank"># Blog </a>
 
 
 </center>
