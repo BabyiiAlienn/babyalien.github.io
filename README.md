@@ -1,20 +1,4 @@
-<style>
- a:link {
-      text-decoration: none;
-}
 
-a:visited {
-      text-decoration: none;
-}
-
-a:hover {
-      text-decoration: none;
-}
-
-a:active {
-      text-decoration: none;
-}
-  </style>
 <center>
 <img src="#" size="10px"/>
 Hello World !
