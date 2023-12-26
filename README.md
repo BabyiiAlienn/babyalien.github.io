@@ -6,7 +6,7 @@ Hello World !
 
 <hr class="cyberpunk glitched" />
 Social Media</br>
-<a href="https://0xBabyAlien.github.io/babyalien.github.io" target="_blank"># GitHub</a>
+<a href="https://0xbabyalien.github.io/0xBabyAlien/" target="_blank"># GitHub</a>
 </br>
 <a href="https://www.binance.com/en/feed/profile/415452117" target="_blank"># Binance Square</a>
 </br>
