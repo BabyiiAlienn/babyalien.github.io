@@ -1,4 +1,20 @@
+<style>
+ a:link {
+      text-decoration: none;
+}
 
+a:visited {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+}
+
+a:active {
+      text-decoration: none;
+}
+  </style>
 <center>
 <img src="#" size="10px"/>
 Hello World !
@@ -21,6 +37,6 @@ Social Media</br>
 </br>
 <a href="https://kampungcyberx.blogspot.com" target="_blank"># Blog </a>
 
-
+</br><a href="https://link3.to/babyalien_id" target="_blank"># Link3 </a>
 </center>
 </br>
