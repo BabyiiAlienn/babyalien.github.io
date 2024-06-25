@@ -15,12 +15,13 @@ Social Media</br>
 </br>
 <a href="https://www.reddit.com/user/0xBabyAlien" target="_blank"># Reddit</a>
 </br>
-<a href="https://t.me/BabyAlien_ID" target="_blank"># Telegram</a>
+<a href="#" target="_blank"># Telegram</a>
 </br>
 <a href="https://discord.com/users/633558230148055060" target="_blank"># Discord</a>
 </br>
 <a href="https://kampungcyberx.blogspot.com" target="_blank"># Blog </a>
 
-</br><a href="https://link3.to/babyalien_id" target="_blank"># Link3 </a>
+</br><a href="https://link3.to/WaRvtLxR" target="_blank"># Link3 </a>
+</br><a href="https://warpcast.com/0xbabyalien" target="_blank"># Warpcast </a>
 </center>
 </br>
