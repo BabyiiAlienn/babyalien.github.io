@@ -19,5 +19,6 @@ Social Media</br>
 
 </br><a href="https://link3.to/0xbabyalien" target="_blank"># Link3 </a>
 </br><a href="https://warpcast.com/0xbabyalien" target="_blank"># Warpcast </a>
+</br><a href="https://trakteer.id/0x628" target="_blank"># Trakteer</a>
 </center>
 </br>
