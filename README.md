@@ -17,7 +17,7 @@ Social Media</br>
 </br>
 <a href="https://kampungcyberx.blogspot.com" target="_blank"># Blog </a>
 
-</br><a href="https://link3.to/WaRvtLxR" target="_blank"># Link3 </a>
+</br><a href="https://link3.to/0xbabyalien" target="_blank"># Link3 </a>
 </br><a href="https://warpcast.com/0xbabyalien" target="_blank"># Warpcast </a>
 </center>
 </br>
