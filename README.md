@@ -10,6 +10,8 @@
 </br>
 <a href="https://instagram.com/0xbabyalien" target="_blank"># Instagram</a>
 </br>
+<a href="https://youtube.com/@0xbabyalien" target="_blank"># Youtube</a>
+</br>
 <a href="https://www.reddit.com/user/nftscan" target="_blank"># Reddit</a>
 </br>
 </br>
