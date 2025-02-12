@@ -1,7 +1,5 @@
 
-<img src="#" size="10px"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!!;My+Nickname+0xBabyAlien)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!!+😉;My+Nickname+0xBabyAlien+😜)](https://git.io/typing-svg)<img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
 <hr class="cyberpunk glitched" />
 👩‍🚀 Social Media</br>
 <a href="https://0xbabyalien.github.io/0xBabyAlien/" target="_blank"># GitHub</a>
@@ -37,8 +35,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=0xbabyalien&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=0xbabyalien&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
