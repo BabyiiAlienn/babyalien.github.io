@@ -1,28 +1,50 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!!+😉;My+Nickname+0xBabyAlien+😜)](https://git.io/typing-svg)
 <hr class="cyberpunk glitched" /></br>
-👩‍🚀 Social Media <img src="x/474e37334d4b4261775a5941414141692f627573792d637574652e676955.gif" width="110" height="100" align="right"></br>
-<a href="https://0xbabyalien.github.io/0xBabyAlien/" target="_blank"># GitHub</a>
+ 👩‍🚀 Social Media <img src="x/474e37334d4b4261775a5941414141692f627573792d637574652e676955.gif" width="110" height="100" align="right"></br>
+
+<a href="https://github.com/0xbabyalien">
+  <img src="https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
+</a>
 </br>
-<a href="https://twitter.com/0xbabyalien" target="_blank"># Twitter</a>
+<a href="https://x.com/0xbabyalien" >
+  <img src="https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
+</a>
 </br>
-<a href="https://instagram.com/0xbabyalien" target="_blank"># Instagram</a>
+<a href= "https://www.instagram.com/0xbabyalien">
+    <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
 </br>
-<a href="https://youtube.com/@0xbabyalien" target="_blank"># Youtube</a>
+<a href="https://www.youtube.com/@0xbabyalien">
+  <img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+</a>
 </br>
-<a href="https://www.reddit.com/user/nftscan" target="_blank"># Reddit</a>
+<a href="https://www.reddit.com/user/nftscan">
+  <img src="https://img.shields.io/badge/Reddit-%23000000.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
+</a>
+</br></br>
+
 </br>
+<a href="https://link3.to/babyalien">
+  <img src="https://img.shields.io/badge/Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
+</a>
 </br>
-</br><a href="https://link3.to/0xbabyalien" target="_blank"># Link3 </a>
-</br><a href="https://warpcast.com/0xbabyalien" target="_blank"># Warpcast </a>
-</br><a href="https://www.lensfrens.xyz/babyalien" target="_blank"># Lens </a>
-</br><a href="https://trakteer.id/0x628" target="_blank"># Trakteer</a><img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
+<a href="https://warpcast.com/0xbabyalien">
+  <img src="https://img.shields.io/badge/Warpcast-%23000000.svg?style=for-the-badge&logo=Warpcast&logoColor=white" alt="Warpcast">
+</a>
+</br>
+<a href="https://lensfrens.xyz/babyalien">
+  <img src="https://img.shields.io/badge/Lens-%23000000.svg?style=for-the-badge&logo=Lens&logoColor=white" alt="Lens">
+</a>
+</br><a href="https://trakteer.id/0x628">
+  <img src="https://img.shields.io/badge/Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
+</a><img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
 </center></br>
 
 </br>
 
 </br>
-📊 GitHub Stats: <br/>
+## 📊 GitHub Stats: <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="x/github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="x/github-user-contribution.svg" />
@@ -35,3 +57,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=0xbabyalien&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 <hr class="cyberpunk glitched" />
+
+
+
+
