@@ -33,6 +33,7 @@
 </a>
 </br>
 
+
 <img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
 </br>
 <a href="https://link3.to/0xbabyalien">
@@ -49,6 +50,10 @@
 </br>
 <a href="https://lensfrens.xyz/babyalien">
   <img src="https://img.shields.io/badge/Lens-%23000000.svg?style=for-the-badge&logo=Lens&logoColor=white" alt="Lens">
+</a>
+</br>
+<a href="https://mirror.xyz/0x228aD3b30a809e7d410fdC9845aeCA5c21bbeC0d">
+  <img src="https://img.shields.io/badge/Mirror-%23000000.svg?style=for-the-badge&logo=Mirror&logoColor=white" alt="Mirror">
 </a>
 </br><a href="https://trakteer.id/0x628">
   <img src="https://img.shields.io/badge/Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
