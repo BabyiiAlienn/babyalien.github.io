@@ -1,8 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!!+😉;My+Nickname+0xBabyAlien+😜)](https://git.io/typing-svg)
 <hr class="cyberpunk glitched" /></br>
- 👩‍🚀 Social Media <img src="x/474e37334d4b4261775a5941414141692f627573792d637574652e676955.gif" width="110" height="100" align="right"></br>
+<h2>👩‍🚀 Social</h2></br>
 
+<img src="x/474e37334d4b4261775a5941414141692f627573792d637574652e676955.gif" width="110" height="100" align="right">
 <a href="https://github.com/0xbabyalien">
   <img src="https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
 </a>
@@ -22,8 +23,9 @@
 <a href="https://www.reddit.com/user/nftscan">
   <img src="https://img.shields.io/badge/Reddit-%23000000.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </a>
-</br></br>
+</br>
 
+<img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
 </br>
 <a href="https://link3.to/babyalien">
   <img src="https://img.shields.io/badge/Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
@@ -38,23 +40,23 @@
 </a>
 </br><a href="https://trakteer.id/0x628">
   <img src="https://img.shields.io/badge/Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
-</a><img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
+</a>
 </center></br>
 
-</br>
 
 </br>
-## 📊 GitHub Stats: <br/>
+<h2>📊 Stats</h2> <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="x/github-user-contribution.svg" />
   <source media="(prefers-color-scheme: light)" srcset="x/github-user-contribution.svg" />
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xbabyalien&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbabyalien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=0xbabyalien&theme=material-palenight)](https://github.com/0xbabyalien)
 
-![](https://github-readme-stats.vercel.app/api?username=0xbabyalien&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+[![](https://github-readme-stats.vercel.app/api?username=0xbabyalien&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/0xbabyalien)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbabyalien&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <hr class="cyberpunk glitched" />
 
