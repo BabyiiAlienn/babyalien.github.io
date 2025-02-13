@@ -27,8 +27,12 @@
 
 <img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
 </br>
-<a href="https://link3.to/babyalien">
+<a href="https://link3.to/0xbabyalien">
   <img src="https://img.shields.io/badge/Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
+</a>
+</br>
+<a href="https://opensea.io/0x228a">
+  <img src="https://img.shields.io/badge/Opensea-%23000000.svg?style=for-the-badge&logo=Opensea&logoColor=white" alt="Opensea">
 </a>
 </br>
 <a href="https://warpcast.com/0xbabyalien">
