@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 </br>
-<a href="https://www.tiktok.com/0xbabyalien">
+<a href="https://www.tiktok.com/0x628">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
 </a>
 </br>
