@@ -16,11 +16,15 @@
     <img src="https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 </br>
+<a href="https://medium.com/@0xBabyAlien">
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
+</a>
+</br>
 <a href="https://www.youtube.com/@0xbabyalien">
   <img src="https://img.shields.io/badge/YouTube-%23000000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
 </br>
-<a href="https://www.tiktok.com/0x628">
+<a href="https://www.tiktok.com/@0xbabyalien">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
 </a>
 </br>
