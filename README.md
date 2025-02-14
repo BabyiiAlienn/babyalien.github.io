@@ -52,6 +52,10 @@
   <img src="https://img.shields.io/badge/Lens-%23000000.svg?style=for-the-badge&logo=Lens&logoColor=white" alt="Lens">
 </a>
 </br>
+<a href="https://dune.com/0xbabyalien">
+  <img src="https://img.shields.io/badge/Dune-%23000000.svg?style=for-the-badge&logo=Dune&logoColor=white" alt="Dune">
+</a>
+</br>
 <a href="https://mirror.xyz/0x228aD3b30a809e7d410fdC9845aeCA5c21bbeC0d">
   <img src="https://img.shields.io/badge/Mirror-%23000000.svg?style=for-the-badge&logo=Mirror&logoColor=white" alt="Mirror">
 </a>
