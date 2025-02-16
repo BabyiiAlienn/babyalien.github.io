@@ -74,7 +74,7 @@
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
 
-![](https://github-trophies.vercel.app/?username=0xbabyalien&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+
 
 ![0xbabyalien's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xbabyalien&theme=tokyonight&hide_border=true)
 
