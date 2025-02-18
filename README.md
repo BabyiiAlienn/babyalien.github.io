@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/Reddit-%23000000.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </a>
 </br>
+
 </br>
 <img src="x/474e37334d4b4261775a5941414141692f627573792d637574652e676955.gif" width="100" height="90" align="right">
 <img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
