@@ -33,7 +33,7 @@
 <img src="x/474e37334d4b4261775a5941414141692f627573792d637574652e676955.gif" width="100" height="90" align="right">
 <img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
 <a href="https://web3.bio/0xbabyalien.x">
-  <img src="https://img.shields.io/badge/⊹WEB3-%23000000.svg?style=for-the-badge&logo=WEB3&logoColor=white" alt="WEBΞ">
+  <img src="https://img.shields.io/badge/⎙ WEB3-%23000000.svg?style=for-the-badge&logo=WEB3&logoColor=white" alt="WEBΞ">
 </a>
 <a href="https://link3.to/0xbabyalien">
   <img src="https://img.shields.io/badge/Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/CoinMarketCap-%23000000.svg?style=for-the-badge&logo=CoinMarketCap&logoColor=white" alt="CoinMarketCap">
 </a>
 <a href="https://mirror.xyz/0x228aD3b30a809e7d410fdC9845aeCA5c21bbeC0d">
-  <img src="https://img.shields.io/badge/Mirror-%23000000.svg?style=for-the-badge&logo=Mirror&logoColor=white" alt="Mirror">
+  <img src="https://img.shields.io/badge/⋂ Mirror-%23000000.svg?style=for-the-badge&logo=Mirror&logoColor=white" alt="Mirror">
 </a>
 
 <a href="https://trakteer.id/0x628">
