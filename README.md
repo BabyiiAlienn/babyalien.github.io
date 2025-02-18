@@ -27,6 +27,9 @@
 <a href="https://www.reddit.com/user/nftscan">
   <img src="https://img.shields.io/badge/Reddit-%23000000.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </a>
+<a href="https://www.reddit.com/user/nftscan">
+  <img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Blogger&logoColor=white" alt="Blog">
+</a>
 </br>
 
 </br>
