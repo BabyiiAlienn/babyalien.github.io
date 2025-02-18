@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/⎙ WEB3-%23000000.svg?style=for-the-badge&logo=WEB3&logoColor=white" alt="WEBΞ">
 </a>
 <a href="https://link3.to/0xbabyalien">
-  <img src="https://img.shields.io/badge/Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
+  <img src="https://img.shields.io/badge/❮ Link3-%23000000.svg?style=for-the-badge&logo=Link3&logoColor=white" alt="Link3">
 </a>
 <a href="https://opensea.io/0x228a">
   <img src="https://img.shields.io/badge/Opensea-%23000000.svg?style=for-the-badge&logo=Opensea&logoColor=white" alt="Opensea">
@@ -58,7 +58,7 @@
 </a>
 
 <a href="https://trakteer.id/0x628">
-  <img src="https://img.shields.io/badge/Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
+  <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
 
 </center></br>
