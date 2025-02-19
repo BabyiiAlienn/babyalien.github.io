@@ -24,9 +24,6 @@
 <a href="https://www.tiktok.com/@0xbabyalien">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
 </a>
-<a href="https://www.facebook.com/0xbabyalien">
-  <img src="https://img.shields.io/badge/Facebook-%23000000.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
-</a>
 <a href="https://www.reddit.com/user/nftscan">
   <img src="https://img.shields.io/badge/Reddit-%23000000.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
 </a>
