@@ -59,14 +59,11 @@
 <a href="https://mirror.xyz/0x228aD3b30a809e7d410fdC9845aeCA5c21bbeC0d">
   <img src="https://img.shields.io/badge/⋂ Mirror-%23000000.svg?style=for-the-badge&logo=Mirror&logoColor=white" alt="Mirror">
 </a>
-
 <a href="https://trakteer.id/0x628">
   <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
 
 </center></br>
-
-
 </br>
 <h2>📊 Stats</h2> <br/>
 <picture>
@@ -74,8 +71,6 @@
   <source media="(prefers-color-scheme: light)" srcset="x/github-user-contribution.svg" />
   <img alt="github-snake" src="x/github-user-contribution.svg" />
 </picture>
-
-
 
 ![0xbabyalien's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xbabyalien&theme=tokyonight&hide_border=true)
 
@@ -85,9 +80,3 @@
 
 
 <hr class="cyberpunk glitched" />
-
-
-
-
-
-
