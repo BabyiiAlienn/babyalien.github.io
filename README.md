@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!!+😉;My+Nickname+0xBabyAlien+😜)](https://git.io/typing-svg)
 <hr class="cyberpunk glitched" /></br>
 <h2>👩‍🚀 Social</h2></br>
-
 <a href="https://github.com/0xbabyalien">
   <img src="https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
 </a>
@@ -78,5 +77,6 @@
 
 ![0xbabyalien's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xbabyalien&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+<br/>
 <hr class="cyberpunk glitched" />
 
