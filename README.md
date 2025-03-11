@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Blogger&logoColor=white" alt="Blog">
 </a>
 </br>
-
 </br>
 <img src="x/474e37334d4b4261775a5941414141692f627573792d637574652e676955.gif" width="90" height="80" align="right">
 <img src="x/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966.gif" width="110" height="100" align="right">
@@ -61,7 +60,6 @@
 <a href="https://trakteer.id/0x628">
   <img src="https://img.shields.io/badge/❣ Trakteer-%23000000.svg?style=for-the-badge&logo=Trakteer&logoColor=white" alt="Trakteer">
 </a>
-
 </center></br>
 </br>
 <h2>📊 Stats</h2> <br/>
