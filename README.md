@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+!!+😉;My+Nickname+0xBabyAlien+😜)](https://git.io/typing-svg)
 <hr class="cyberpunk glitched" /></br>
+
 <h2>👩‍🚀 Social</h2></br>
 <a href="https://github.com/0xbabyalien">
   <img src="https://img.shields.io/badge/Github-%23000000.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
@@ -62,6 +63,7 @@
 </a>
 </center></br>
 </br>
+
 <h2>📊 Stats</h2> <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="x/github-user-contribution.svg" />
